@@ -1,1 +1,1 @@
-# Pizza_sales_sql_project
+This is Pizza sales SQL and Excel project. Initial analysis is done using SQL and then same values were confirmed in Excel pivot tables. A final effective and attractive dashboard is made using Excel.
