@@ -19,7 +19,7 @@ This project analyzes pizza sales data using SQL for data exploration and Excel 
 - Monthly & Daily Trends
 
 ## Dashboard
-- Pizza sales dashboard.jpg
+- ![Dashboard](dashboard_preview.jpg)
 
 ## Insights
 - The Classic category generated highest revenue
